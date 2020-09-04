@@ -1,4 +1,6 @@
 # youtube_ads_scraper_bot
+# Warning 
+* run this project if you have RAM more than 8 GB or atleast 8 GB or otherwise your computer will hang or might even crash.
 
 # Requirements
 * scrapy==2.1.0
