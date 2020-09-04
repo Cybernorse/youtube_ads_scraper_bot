@@ -1,0 +1,39 @@
+1599108057728	geckodriver	INFO	Listening on 127.0.0.1:43569
+1599108057778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2N7TsL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599108062258	Marionette	INFO	Listening on port 43779
+1599108063709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599108088017	Marionette	INFO	Stopped listening on port 43779
+1599108182170	geckodriver	INFO	Listening on 127.0.0.1:47337
+1599108182175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0MkbSp"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599108186826	Marionette	INFO	Listening on port 35539
+1599108188312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599108222492	Marionette	INFO	Stopped listening on port 35539
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599147541521	geckodriver	INFO	Listening on 127.0.0.1:39063
+1599147541572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepy78yn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599147545837	Marionette	INFO	Listening on port 35553
+1599147547312	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1599147628223	geckodriver	INFO	Listening on 127.0.0.1:55771
+1599147628231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev0gJgC"
+*** You are running in headless mode.

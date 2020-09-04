@@ -1,0 +1,10 @@
+scrapy crawl vt1 -o vt1.csv &
+scrapy crawl vt2 -o vt2.csv &
+scrapy crawl vt3 -o vt3.csv &
+scrapy crawl vt4 -o vt4.csv &
+scrapy crawl vt5 -o vt5.csv &
+scrapy crawl vt6 -o vt6.csv &
+scrapy crawl vt7 -o vt7.csv &
+scrapy crawl vt8 -o vt8.csv &
+scrapy crawl vt9 -o vt9.csv &
+scrapy crawl vt10 -o vt10.csv &
